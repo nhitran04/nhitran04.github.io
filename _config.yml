@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Nhi Tran"
+title: "Home"
 title_separator: "-"
 name: &name "Nhi Tran"
 description: &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns: # example: "she/her"
   bio: "M.S. Student in Robotics and Autonomous Systems at Johns Hopkins University"
   location: "Washington, D.C."
-  employer: "United States Naval Research Laboratory"
+  employer: "U.S. Naval Research Laboratory"
   uri: # URL
   email: "ntran29@jh.edu"
 
