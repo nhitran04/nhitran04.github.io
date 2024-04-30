@@ -20,4 +20,4 @@ Previously, I received my Bachelor of Science from the [Department of Computer S
 - <span style="color:#107896">11.2023:</span> Best Poster Award from the Future Technologies Conference!
 - <span style="color:#107896">11.2023:</span> First-author publication at the Future Technologies Conference!
 - <span style="color:#107896">07.2023:</span> First-author publication at the Free and Open Communications on the Internet!
-- <span style="color: #107896">05.2023:</span> Begin internship at U.S. Naval Research Laboratory!
+- <span style="color: #107896">05.2023:</span> Began internship at U.S. Naval Research Laboratory!
