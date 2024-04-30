@@ -14,3 +14,7 @@ My primary research interests lie in the intersection of **artificial intelligen
 Previously, I received my Bachelor of Science from the [Department of Computer Science](https://www.cs.umd.edu/) with a minor in Geospatial Information Science from the [Department of Geographical Sciences](https://geog.umd.edu/) at the [University of Maryland, College Park](https://umd.edu/).
 
 # News
+
+**4/2024:** Accepted to Johns Hopkins for a M.S. in Robotics and Autonomous Systems.
+**12/2023:** Graduated with a B.S. in Computer Science from the University of Maryland.
+**11/2023:** Received Best Poster Award from the Future Technologies Conference.
