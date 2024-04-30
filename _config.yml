@@ -22,13 +22,13 @@ repository: "nhitran04/nhitran04.github.io"
 author:
   # Biographic information
   avatar: "profile.png"
-  name: "Your Sidebar Name"
+  name: "Nhi Tran"
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
-  location: "Earth"
-  employer: "Red Brick University"
+  bio: "M.S. Student in Robotics and Autonomous Systems"
+  location: "Washington, D.C."
+  employer: "United States Naval Research Laboratory"
   uri: # URL
-  email: "none@example.org"
+  email: "ntran29(at)jh(dot)edu"
 
   # Academic websites
   arxiv: # URL - Update with the correct link to your profile
