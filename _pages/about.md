@@ -11,13 +11,15 @@ Hi there! I am a Master's student studying Robotics and Autonomous Systems at [J
 
 My primary research interests lie in the intersection of **artificial intelligence (AI)** and **human-computer interaction (HCI)** to design intelligent and user-centric **robotic systems**. Currently, I am investigating the effects of design choices for robot programming interfaces, or end-user programming tools, on users' expectations of how a robot acts. I am primarily mentored by [Dr. David Porfirio](https://dporfirio.github.io/) at the U.S. Naval Research Laboratory.
 
-Previously, I received my Bachelor of Science from the [Department of Computer Science](https://www.cs.umd.edu/) with a minor in Geospatial Information Science from the [Department of Geographical Sciences](https://geog.umd.edu/) at the [University of Maryland, College Park](https://umd.edu/).
+Previously, I received my Bachelor of Science from the [Department of Computer Science](https://www.cs.umd.edu/) with a minor in Geospatial Information Science from the [Department of Geographical Sciences](https://geog.umd.edu/) at the [University of Maryland, College Park](https://umd.edu/). I was involved in behavioral science technology and human-computer interaction research at the Pervasive Well-being Tech Lab, led by [Dr. Pablo Paredes](https://scholar.google.com/citations?user=AdXr8mEAAAAJ&hl=en). I was also involved in network security research at the [Breakerspace Lab](http://breakerspace.cs.umd.edu/), led by [Dr. Dave Levin](https://www.cs.umd.edu/~dml/).
 
 # News
 
-- <span style="color:#107896">04.2024:</span> Accepted to M.S. in Robotics and Autonomous Systems at Johns Hopkins!
-- <span style="color:#107896">12.2023:</span> Graduated with a B.S. in Computer Science from the University of Maryland!
-- <span style="color:#107896">11.2023:</span> Best Poster Award from the Future Technologies Conference!
-- <span style="color:#107896">11.2023:</span> First-author publication at the Future Technologies Conference!
-- <span style="color:#107896">07.2023:</span> First-author publication at the Free and Open Communications on the Internet!
-- <span style="color: #107896">05.2023:</span> Began internship at U.S. Naval Research Laboratory!
+- <span style="color:#107896">04.2024:</span> I have been accepted to the Master's program in Robotics and Autonomous Systems at Johns Hopkins University!
+- <span style="color:#107896">12.2023:</span> I have graduated with a B.S. in Computer Science from the University of Maryland!
+- <span style="color:#107896">11.2023:</span> I am back at the U.S. Naval Research Laboratory as a Robotics Student Researcher!
+- <span style="color:#107896">11.2023:</span> We received Best Poster Award at the Future Technologies Conference!
+- <span style="color:#107896">11.2023:</span> Our paper on mobile app health interventions at the Pervasive Well-being Tech Lab is published at the Future Technologies Conference!
+- <span style="color:#107897">09.2023:</span> I have finished my summer internship at the U.S. Naval Research Laboratory!
+- <span style="color:#107896">07.2023:</span> Our paper on server-side censorship evasion at the Breakerspace Lab is published at the Free and Open Commuications on the Internet!
+- <span style="color: #107896">05.2023:</span> I have begun my summer internship at the U.S. Naval Research Laboratory!
