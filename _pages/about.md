@@ -15,6 +15,8 @@ Previously, I received my Bachelor of Science from the [Department of Computer S
 
 # News
 
-- <span style="color:blue">04/2024:</span> Accepted to M.S. in Robotics and Autonomous Systems at Johns Hopkins.
-- <span style="color:blue">12/2023:</span> Graduated with a B.S. in Computer Science from the University of Maryland.
-- <span style="color:blue">11/2023:</span> Received Best Poster Award from the Future Technologies Conference.
+- <span style="color:#107896">04.2024:</span> Accepted to M.S. in Robotics and Autonomous Systems at Johns Hopkins!
+- <span style="color:#107896">12.2023:</span> Graduated with a B.S. in Computer Science from the University of Maryland!
+- <span style="color:#107896">11.2023:</span> Best Poster Award from the Future Technologies Conference!
+- <span style="color:#107896">11.2023</span> First-author publication at the Future Technologies Conference!
+- <span style="color: #107896">05.2023</span> Begin internship at U.S. Naval Research Laboratory!
