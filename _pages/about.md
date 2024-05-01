@@ -21,8 +21,9 @@ I began my research career at the [Department of Civil and Environmental Enginee
 - <span style="color:#107896">12.2023:</span> I have graduated with a B.S. in Computer Science from the University of Maryland!
 - <span style="color:#107896">11.2023:</span> I am back at the U.S. Naval Research Laboratory as a Robotics Student Researcher!
 - <span style="color:#107896">11.2023:</span> We received Best Poster Award at the Future Technologies Conference!
-- <span style="color:#107896">11.2023:</span> Our paper on mobile app health interventions at the Pervasive Well-being Tech Lab is published at the Future Technologies Conference!
-- <span style="color:#107896">10.2023</span> Our paper on the effects of climate change on rent affordability at the Department of Civil and Environmental Engineering is published in the Risk Analysis journal!
+- <span style="color:#107896">10.2023:</span> My paper on mobile health app interventions with the Pervasive Well-being Tech Lab is published in the Future Technologies Conference!
+- <span style="color:#107896">10.2023:</span> Our paper on the effects of climate change on rent affordability at the Department of Civil and Environmental Engineering is published in the Risk Analysis journal!
 - <span style="color:#107897">09.2023:</span> I have finished my summer internship at the U.S. Naval Research Laboratory!
-- <span style="color:#107896">07.2023:</span> Our paper on server-side censorship evasion at the Breakerspace Lab is published at the Free and Open Commuications on the Internet!
-- <span style="color: #107896">05.2023:</span> I have begun my summer internship at the U.S. Naval Research Laboratory!
+- <span style="color:#107896">07.2023:</span> My paper on server-side censorship evasion with the Breakerspace Lab is published in Free and Open Commuications on the Internet!
+- <span style="color:#107896">05.2023:</span> I have begun my summer internship at the U.S. Naval Research Laboratory!
+- <span style="color:#107896">05.2023</span> I gave a lightning talk on mobile health app interventions with Priyanka Mehta (M.S. in Computer Science '23) at the University of Maryland's HCI Symposium!
