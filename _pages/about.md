@@ -26,4 +26,4 @@ I began my research career at the [Department of Civil and Environmental Enginee
 - <span style="color:#107897">09.2023:</span> I have finished my summer internship at the U.S. Naval Research Laboratory!
 - <span style="color:#107896">07.2023:</span> My paper on server-side censorship evasion with the Breakerspace Lab is published in Free and Open Commuications on the Internet!
 - <span style="color:#107896">05.2023:</span> I have begun my summer internship at the U.S. Naval Research Laboratory!
-- <span style="color:#107896">05.2023</span> I gave a lightning talk on mobile health app interventions with Priyanka Mehta (M.S. in Computer Science '23) at the University of Maryland's HCI Symposium!
+- <span style="color:#107896">05.2023:</span> I gave a lightning talk on mobile health app interventions with Priyanka Mehta (M.S. in Computer Science '23) at the University of Maryland's HCI Symposium!
