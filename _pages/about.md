@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a Master's student studying Robotics and Autonomous Systems at [Johns Hopkins University Whiting School of Engineering](https://engineering.jhu.edu/) and a Robotics Student Researcher in the Adaptive Systems Section at the [Navy Center for Applied Research in Artificial Intelligence](https://www.nrl.navy.mil/itd/aic/), part of the [U.S. Naval Research Laboratory](https://www.nrl.navy.mil/) in Washington, D.C.
+Hi there! I am a Master's student studying Robotics and Autonomous Systems at [Johns Hopkins University](https://engineering.jhu.edu/) and a Robotics Student Researcher in the Adaptive Systems Section of the [Navy Center for Applied Research in Artificial Intelligence](https://www.nrl.navy.mil/itd/aic/), part of the [U.S. Naval Research Laboratory](https://www.nrl.navy.mil/) in Washington, D.C.
 
-My primary research interests lie in the intersection of **artificial intelligence (AI)** and **human-computer interaction (HCI)** to design intelligent and user-centric **robotic systems**. Currently, I am investigating the effects of design choices for robot programming interfaces, or end-user programming tools, on users' expectations of how a robot should act. I am primarily mentored by [Dr. David Porfirio](https://dporfirio.github.io/) and supervised by [Dr. Mark (Mak) Roberts](https://makro-nrl.bitbucket.io/) and [Dr. Laura Hiatt](https://sites.google.com/site/lahiatt/cv) at the U.S. Naval Research Laboratory.
+My primary research interests lie in the intersection of **artificial intelligence (AI)** and **human-computer interaction (HCI)** to design intelligent and user-centric **robotic systems**. I am also interested in understanding how design choices affect humans' **trust** and **expectations** of robots.
 
-Previously, I received my Bachelor of Science from the [Department of Computer Science](https://www.cs.umd.edu/) with a minor in Geospatial Information Science from the [Department of Geographical Sciences](https://geog.umd.edu/) at the [University of Maryland, College Park](https://umd.edu/).
+Currently, I am investigating how human-robot interaction (HRI) programming interface design choices impact users' trust and expectations of robots. I am primarily mentored by [Dr. David Porfirio](https://dporfirio.github.io/) and supervised by [Dr. Mark (Mak) Roberts](https://makro-nrl.bitbucket.io/) and [Dr. Laura Hiatt](https://sites.google.com/site/lahiatt/cv) at the U.S. Naval Research Laboratory.
 
-I began my research career at the [Department of Civil and Environmental Engineering](https://cee.umd.edu/), where I worked on climate change research with [Dr. Kelsea Best](https://www.kelseabestresearch.com/), [Dr. Qian He](https://qianheplanning.wordpress.com/), [Dr. Allison Reilly](https://cee.umd.edu/clark/faculty/289/Allison-Reilly), and [Dr. Deb Niemeier](https://cee.umd.edu/clark/faculty/1215/Deb-Niemeier). I then became involved in behavioral science technology and HCI research at the Pervasive Well-being Tech Lab, led by [Dr. Pablo Paredes](https://www.umiacs.umd.edu/people/pparedes), and network security research at the [Breakerspace Lab](http://breakerspace.cs.umd.edu/), led by [Dr. Dave Levin](https://www.cs.umd.edu/~dml/).
+I recently received my Bachelor of Science in [Computer Science](https://www.cs.umd.edu/) with a minor in [Geospatial Information Science] at the [University of Maryland, College Park](https://umd.edu/).
 
 # News
 
