@@ -434,7 +434,7 @@ ninja.data = [{
     },{id: "news-i-graduated-from-the-university-of-maryland-with-a-b-s-in-computer-science",
           title: 'I graduated from the University of Maryland with a B.S. in Computer Science!...',
           description: "",
-          section: "News",},{id: "news-i-presented-at-the-aaai-fall-symposium-for-unifying-representations-for-robot-application-development",
+          section: "News",},{id: "news-i-presented-at-the-aaai-fall-symposium-for-unifying-representations-for-robot-application-development-ur-rad",
           title: 'I presented at the AAAI Fall Symposium for Unifying Representations for Robot Application...',
           description: "",
           section: "News",},{id: "news-my-lbr-paper-crowdhri-gamifying-hri-data-collection-as-a-multiplayer-mixed-reality-game-was-accepted-at-hri-2025",
