@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>U.S. Naval Research Laboratoryr</p>
+    <p>U.S. Naval Research Laboratory</p>
     <p>4555 Overlook Ave SW,</p>
     <p>Washington, D.C. 20375</p>
 
