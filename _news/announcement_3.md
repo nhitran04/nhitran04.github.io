@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+My LBR paper CrowdHRI: Gamifying HRI Data Collection as a Multiplayer Mixed Reality Game was accepted at HRI 2025!
