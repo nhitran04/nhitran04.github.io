@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I presented at the [AAAI Fall Symposium for Unifying Representations for Robot Application Development](https://sites.google.com/view/aaai-ur-rad-symposium/home) (UR-RAD)!
+I presented my work on [Goals vs. Actions as User-Facing Representations for Robot Programming](https://drive.google.com/file/d/1E1xZMXu1w4NgvCXlS96RJAJaCFl7SP35/view) [AAAI Fall Symposium for Unifying Representations for Robot Application Development](https://sites.google.com/view/aaai-ur-rad-symposium/home) (UR-RAD)!
 
 <!-- ---
 layout: post

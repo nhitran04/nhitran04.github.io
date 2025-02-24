@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduated from the University of Maryland with a B.S. in Computer Science! 🐢 🎓
+I graduated from the [University of Maryland](https://umd.edu/) with a B.S. in [Computer Science](https://www.cs.umd.edu/)! 🐢 🎓
