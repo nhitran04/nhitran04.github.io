@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I presented at the AAAI Fall Symposium for Unifying Representations for Robot Application Development!
+I presented at the [AAAI Fall Symposium for Unifying Representations for Robot Application Development](https://sites.google.com/view/aaai-ur-rad-symposium/home) (UR-RAD)!
 
 <!-- ---
 layout: post
