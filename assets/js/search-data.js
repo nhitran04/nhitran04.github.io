@@ -431,16 +431,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-my-lbr-paper-crowdhri-gamifying-hri-data-collection-as-a-multiplayer-mixed-reality-game-was-accepted-at-hri-2025",
+          title: 'My LBR paper CrowdHRI: Gamifying HRI Data Collection as a Multiplayer Mixed Reality...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-graduated-from-the-university-of-maryland-with-a-b-s-in-computer-science",
+          title: 'I graduated from the University of Maryland with a B.S. in Computer Science!...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-presented-at-the-aaai-fall-symposium-for-unifying-representations-for-robot-application-development",
+          title: 'I presented at the AAAI Fall Symposium for Unifying Representations for Robot Application...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
