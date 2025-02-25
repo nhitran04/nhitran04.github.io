@@ -434,7 +434,9 @@ ninja.data = [{
     },{id: "news-i-graduated-from-the-university-of-maryland-with-a-b-s-in-computer-science",
           title: 'I graduated from the University of Maryland with a B.S. in Computer Science!...',
           description: "",
-          section: "News",},{id: "news-i-presented-my-work-on-goals-vs-actions-as-user-facing-representations-for-robot-programming-at-the-2024-aaai-fall-symposium-for-unifying-representations-for-robot-application-development-ur-rad",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-i-presented-my-work-on-goals-vs-actions-as-user-facing-representations-for-robot-programming-at-the-2024-aaai-fall-symposium-for-unifying-representations-for-robot-application-development-ur-rad",
           title: 'I presented my work on Goals vs. Actions as User-Facing Representations for Robot...',
           description: "",
           section: "News",},{id: "news-my-lbr-paper-crowdhri-gamifying-hri-data-collection-as-a-multiplayer-mixed-reality-game-was-accepted-at-hri2025",
