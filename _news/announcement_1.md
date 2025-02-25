@@ -8,7 +8,7 @@ related_posts: false
 
 I graduated from the [University of Maryland](https://umd.edu/) (UMD) with a B.S. in [Computer Science](https://www.cs.umd.edu/)! 🐢 🎓
 
-![Grad Photo](/nhitran04.github.io/assets/img/umd_grad/testudo.jpg)
+![Grad Photo](/assets/img/umd_grad/testudo.jpg)
 
 <p></p>
 
