@@ -427,12 +427,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-announcement-3",
-          title: 'Announcement_3',
+            },},{id: "news-my-lbr-paper-crowdhri-gamifying-hri-data-collection-as-a-multiplayer-mixed-reality-game-was-accepted-at-hri-2025",
+          title: 'My LBR paper CrowdHRI: Gamifying HRI Data Collection as a Multiplayer Mixed Reality...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
