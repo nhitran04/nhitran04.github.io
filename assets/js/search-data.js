@@ -422,13 +422,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-i-presented-goals-vs-actions-as-user-facing-representations-for-robot-programming-at-the-2024-aaai-fall-symposium",
-          title: 'I presented *Goals vs. Actions as User-Facing Representations for Robot Programming* at the...',
+            },},{id: "news-i-presented-at-the-2024-aaai-fall-symposium",
+          title: 'I presented at the 2024 AAAI Fall Symposium!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-my-lbr-paper-crowdhri-gamifying-hri-data-collection-as-a-multiplayer-mixed-reality-game-was-accepted-at-hri-2025",
-          title: 'My LBR paper CrowdHRI: Gamifying HRI Data Collection as a Multiplayer Mixed Reality...',
+            },},{id: "news-my-lbr-paper-was-accepted-at-hri-2025",
+          title: 'My LBR paper was accepted at HRI 2025!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
