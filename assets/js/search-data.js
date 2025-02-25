@@ -431,8 +431,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-graduated-from-the-university-of-maryland-with-a-b-s-in-computer-science",
-          title: 'I graduated from the University of Maryland with a B.S. in Computer Science!...',
+    },{id: "news-i-graduated-from-the-university-of-maryland",
+          title: 'I graduated from the University of Maryland!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
