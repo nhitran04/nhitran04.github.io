@@ -1,18 +1,14 @@
 ---
 layout: post
-title: I graduated from the University of Maryland with a B.S. in Computer Science! 
+title: I graduated from the University of Maryland! 
 date: 2023-12-19
 inline: false
 related_posts: false
 ---
 
-# I graduated from the University of Maryland!
-
 I graduated from the [University of Maryland](https://umd.edu/) (UMD) with a B.S. in [Computer Science](https://www.cs.umd.edu/)! 🐢 🎓
 
-<img src="/Users/nhitran/Desktop/nhitran04.github.io/assets/img/umd_grad/testudo.jpg" 
-     alt="With Testudo" 
-     style="display: block; margin: auto;">
+![Grad Photo](/nhitran04.github.io/assets/img/umd_grad/testudo.jpg)
 
 <p></p>
 
