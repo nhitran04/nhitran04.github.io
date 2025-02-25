@@ -20,5 +20,5 @@ Here is a list of mentors that I worked with at UMD during my undergrad:
 - [Priyanka Mehta](https://www.linkedin.com/in/priyankamehta6) (M.S. Graduate from UMD, Software Engineer at Geico)
 - [Dr. Pablo Paredes](https://scholar.google.com/citations?user=AdXr8mEAAAAJ&hl=en) (Assistant Professor at UMD, Senior Manager at Toyota Research Institute)
 - [Dr. Dave Levin](https://www.cs.umd.edu/~dml/) (Associate Professor at UMD)
-- [Dr. Kelsea Best](https://www.kelseabestresearch.com/) (Assistant Professor at Ohio State University)
-- [Dr. Qian He](https://qianheplanning.wordpress.com/) (Assistant Professor at Rowan University)
+- [Dr. Kelsea Best](https://www.kelseabestresearch.com/) (Formerly Postdoc at UMD, Assistant Professor at Ohio State University)
+- [Dr. Qian He](https://qianheplanning.wordpress.com/) (Formerly Postdoc at UMD, Assistant Professor at Rowan University)
