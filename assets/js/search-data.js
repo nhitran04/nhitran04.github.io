@@ -436,8 +436,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-i-presented-my-work-on-goals-vs-actions-as-user-facing-representations-for-robot-programming-at-the-2024-aaai-fall-symposium-for-unifying-representations-for-robot-application-development-ur-rad",
-          title: 'I presented my work on Goals vs. Actions as User-Facing Representations for Robot...',
+            },},{id: "news-i-presented-at-the-2024-aaai-fall-symposium-i-presented-my-work-on-goals-vs-actions-as-user-facing-representations-for-robot-programming-at-the-2024-aaai-fall-symposium-on-unifying-representations-for-robot-application-development-ur-rad-in-my-talk-i-presented-my-research-plan-for-investigating-different-representations-for-capturing-human-intent-when-specifying-tasks-for-a-robot-by-comparing-goals-i-e-the-partial-state-of-the-world-that-the-robot-strives-to-achieve-versus-actions-i-e-what-the-robot-does-to-change-the-state-of-the-world-i-emphasized-the-need-for-future-robot-application-development-research-to-investigate-different-representations-for-expressing-tasks-for-a-robot-you-can-read-more-about-this-work-here",
+          title: 'I presented at the 2024 AAAI Fall Symposium! I presented my work on...',
           description: "",
           section: "News",},{id: "news-my-lbr-paper-crowdhri-gamifying-hri-data-collection-as-a-multiplayer-mixed-reality-game-was-accepted-at-hri2025",
           title: 'My LBR paper CrowdHRI: Gamifying HRI Data Collection as a Multiplayer Mixed Reality...',
