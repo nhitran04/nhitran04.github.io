@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I presented *Goals vs. Actions as User-Facing Representations for Robot Programming* at the 2024 AAAI Fall Symposium!
+title: I presented at the 2024 AAAI Fall Symposium!
 date: 2024-11-08
 inline: false
 related_posts: false
