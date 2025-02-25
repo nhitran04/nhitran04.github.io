@@ -423,7 +423,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
             },},{id: "news-i-presented-goals-vs-actions-as-user-facing-representations-for-robot-programming-at-the-2024-aaai-fall-symposium",
-          title: 'I presented Goals vs. Actions as User-Facing Representations for Robot Programming at the...',
+          title: 'I presented *Goals vs. Actions as User-Facing Representations for Robot Programming* at the...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
