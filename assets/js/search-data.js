@@ -427,10 +427,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-my-lbr-paper-was-accepted-at-hri-2025",
-          title: 'My LBR paper was accepted at HRI 2025!',
+            },},{id: "news-my-late-breaking-report-was-accepted-at-hri-2025",
+          title: 'My Late-Breaking Report was accepted at HRI 2025!',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
