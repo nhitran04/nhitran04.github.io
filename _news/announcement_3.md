@@ -106,7 +106,7 @@ The current architecture comprises three role-based key components and abilities
 
 Real-time interaction is facilitated through WebSockets, ensuring synchronized communication between devices. ROS 2.0 further enhances the platform by enabling precise synchronization of robot actions with human inputs. Additionally, the web server provides a data API for advanced data processing, visualization, annotation, and analysis.
 
-![Fig1](/assets/img/crowdhri/fig1.png)
+<img src="/assets/img/crowdhri/fig1.png" width="50%">
 
 ### *A. Proof of Concept and Validation*
 
