@@ -126,7 +126,7 @@ CrowdHRI has the potential to bridge significant gaps in existing HRI research p
 
 ## References
 
-1. ["Real-time computing," Dec. 2024, page Version ID: 1263720334](https://en.wikipedia.org/w/index.php?title=Real-time-computing).
+1. "Real-time computing," Dec. 2024, page Version ID: 1263720334.
 
 2. T. Abbas, V.-J. Khan, U. Gadiraju, E. Barakova, and P. Markopoulos, "Crowd of Oz: A Crowd-Powered Social Robotics System for Stress Management," *Sensors*, vol. 20, no. 2, p. 569, Jan. 2020.
 
@@ -142,7 +142,7 @@ CrowdHRI has the potential to bridge significant gaps in existing HRI research p
 
 8. H. H. Clark, "Grounding in communication," *Perspectives on socially shared cognition/American Psychological Association*, 1991.
 
-9. Cyberbotics Ltd., ["Cyberbotics: Robotics simulation with Webots"](https://cyberbotics.com/), 1998.
+9. Cyberbotics Ltd., "Cyberbotics: Robotics simulation with Webots", 1998.
 
 10. M. Dianatfar, J. Latokartano, and M. Lanz, "Review on existing VR/AR solutions in human–robot collaboration," *Procedia CIRP*, vol. 97, pp. 407–411, Jan. 2021.
 
@@ -160,7 +160,7 @@ CrowdHRI has the potential to bridge significant gaps in existing HRI research p
 
 17. J. Miniotaite, E. Torubarova, and A. Pereira, "Comparing Dashboard and Virtual Reality Wizard-of-Oz Setups In a Human-Robot Conversational Task," Mar. 2023.
 
-18. NVIDIA Corporation, ["Isaac Sim: Robotics Simulation and Synthetic Data Generation"](https://developer.nvidia.com/isaac/sim), May 2021.
+18. NVIDIA Corporation, "Isaac Sim: Robotics Simulation and Synthetic Data Generation", May 2021.
 
 19. X. Puig, E. Undersander, A. Szot, et al., "Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots," Oct. 2023, *arXiv:2310.13724*.
 
