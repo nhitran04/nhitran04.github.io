@@ -13,7 +13,7 @@ related_posts: false
 <div style="display: flex; justify-content: center; text-align: center; gap: 40px;">
 
 <div style="flex: 1;">
-    <p style="margin: 3px 0;"><strong><sup>1</sup>Nhi Tran</strong></p>
+    <p style="margin: 3px 0;"><strong><sup>1</sup><a href="https://nhitran04.github.io" target="_blank" rel="noopener noreferrer">Nhi Tran</a></strong></p>
     <p style="margin: 3px 0;">Whiting School of Engineering</p>
     <p style="margin: 3px 0;">Johns Hopkins University</p>
     <p style="margin: 3px 0;">Baltimore, Maryland, USA</p>
