@@ -36,7 +36,7 @@ related_posts: false
   border-radius: 10px; 
   padding: 15px; 
   margin: 1em auto; 
-  max-width: 500px;
+  max-width: 400px;
   text-align: center;
 ">
   <h3 style="margin-top: 0;">Table of Contents</h3>
