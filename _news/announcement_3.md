@@ -6,19 +6,47 @@ inline: false
 related_posts: false
 ---
 
-# CrowdHRI: Gamifying HRI Data Collection as a Multiplayer Mixed Reality Game
+<div style="text-align: center;">
+    <h2><strong>CrowdHRI: Gamifying HRI Data Collection as a Multiplayer Mixed Reality Game</strong></h2>
+</div>
 
-## Abstract
+<div style="display: flex; justify-content: center; text-align: center; gap: 40px;">
+
+<div style="flex: 1;">
+    <p style="margin: 3px 0;"><strong><sup>1</sup>Nhi Tran</strong></p>
+    <p style="margin: 3px 0;">Whiting School of Engineering</p>
+    <p style="margin: 3px 0;">Johns Hopkins University</p>
+    <p style="margin: 3px 0;">Baltimore, Maryland, USA</p>
+    <p style="margin: 3px 0;">ntran29@jh.edu</p>
+</div>
+
+<div style="flex: 1;">
+    <p style="margin: 3px 0;"><strong><sup>1</sup>Snehesh Shrestha</strong></p>
+    <p style="margin: 3px 0;">University of Maryland</p>
+    <p style="margin: 3px 0;">College Park, Maryland, USA</p>
+    <p style="margin: 3px 0;">snehesh@umd.edu</p>
+</div>
+
+</div>
+
+
+<div style="text-align: center;">
+    <h2><strong>Abstract</strong></h2>
+</div>
 
 Crowdsourcing data for Human-Robot Interaction (HRI) research remains a challenge, requiring scalable, flexible, and immersive methods to collect meaningful interaction data. This paper introduces *CrowdHRI*, a novel approach to gamify HRI data collection through a multiplayer mixed reality (MR) game. The proposed system integrates a web server and Unity-based client architecture, enabling users to schedule or join sessions dynamically. Through immersive MR, *CrowdHRI* offers realistic environments and supports customizable experimental setups, gathering high-fidelity data on human-robot interactions. The system includes automated metrics to capture interaction quality, alongside a robust data science framework for analysis. By addressing the limitations of existing platforms—such as restricted scalability and interaction fidelity *CrowdHRI* enables a wide range of experimental conditions and advances the field of HRI research.
 
 ***Index Terms*—crowd sourcing, hri, vr, user study, gamification**
 
-## I. Introduction
+<div style="text-align: center;">
+    <h2><strong>I. Introduction</strong></h2>
+</div>
 
 The advancement of Human-Robot Interaction (HRI) research heavily relies on the availability of robust, high-quality interaction datasets. While traditional data collection methods, such as Wizard-of-Oz studies [23], crowdsourcing platforms [7], and competitions [11], have made significant contributions, they often suffer from scalability, logistical, and environmental constraints. They fail to scale effectively or simulate the nuanced interplay of human and robot roles. To address these limitations, we present CrowdHRI, a multiplayer Mixed Reality (MR) environments for immersive and dynamic experimental setups designed to gamify HRI data collection by allowing participants to take on various HRI roles while adhering to realistic constraints inspired by robotic systems.
 
-### *A. Expanding the Scope of Crowdsourcing*
+<div style="text-align: center;">
+    <h3><em><strong>A. Expanding the Scope of Crowdsourcing</strong></em></h3>
+</div>
 
 A robust HRI simulator must:
 
@@ -28,11 +56,15 @@ A robust HRI simulator must:
 
 3) **Provide Immersive and Configurable Environments**: Offer customizable scenarios to address varying research objectives while providing appropriate immersion, constraints, and control through MR interfaces.
 
-### *B. Lessons from Existing Systems*
+<div style="text-align: center;">
+    <h3><em><strong>B. Lessons from Existing Systems</strong></em></h3>
+</div>
 
 Platforms such as SIGVerse [11] and crowdsourcing-based games [7] have captured large-scale HRI data but often fall short in replicating real-world constraints. These systems primarily focus on task performance and communication but lack role-specific configurations or the ability to simulate robotic constraints for human participants. Moreover, most existing solutions emphasize either scalability or fidelity, rarely achieving both [2], [5].
 
-### *C. Bridging the Gap: Role-Driven HRI in MR*
+<div style="text-align: center;">
+    <h3><em><strong>C. Bridging the Gap: Role-Driven HRI in MR</strong></em></h3>
+</div>
 
 Our proposed CrowdHRI platform bridges this gap by:
 
@@ -46,13 +78,19 @@ Our proposed CrowdHRI platform bridges this gap by:
 
 5) **Mixed Reality Interfaces**: Having VR, computer based, smartphones, and tablet interfaces and controllers allows for greater diversity in input and researchers' ability to define role based constraints in possible devices for each role Eg. robot supervisor might not need a full VR experience and a laptop might be sufficient.
 
-### *D. Contribution*
+<div style="text-align: center;">
+    <h3><em><strong>D. Contribution</strong></em></h3>
+</div>
 
 By incorporating diverse roles and role-specific limitations into a gamified MR platform, *CrowdHRI* not only enhances the realism and fidelity of HRI data collection but also enables the exploration of novel interaction paradigms. This platform empowers researchers to investigate how constraints and roles affect human-robot collaboration, paving the way for deeper insights into adaptive and scalable HRI systems.
 
-## II. Related Works
+<div style="text-align: center;">
+    <h2><strong>II. Related Works</strong></h2>
+</div>
 
-### *A. HRI Communication*
+<div style="text-align: center;">
+    <h3><em><strong>A. HRI Communication</strong></em></h3>
+</div>
 
 Human communication is inherently complex, going beyond simple turn-taking where one party expresses intent and the other either accepts or rejects the message. Instead, communication involves a dynamic process of interpretation, negotiation, interruption, and clarification. Achieving common ground often requires iterative exchanges, as individuals employ strategies to address non-understanding and misunderstanding. These strategies, known as communication repair mechanisms, are critical for maintaining effective dialogue in situations where intent is not immediately clear [8], [22].
 
@@ -60,7 +98,9 @@ Communication repair remains an under-explored area in HRI. While the need for r
 
 To overcome these limitations, what is needed is a scalable platform that enables researchers to design and test hundreds of conditions and permutations required to study repair mechanisms in HRI. By leveraging mixed reality (MR) environments and crowdsourcing, the system can simulate diverse scenarios and collect large-scale data on how repair strategies are employed in real-time, dynamic human-robot interactions. This approach facilitates the systematic investigation of repair processes, offering new insights into designing robots capable of more natural and effective communication.
 
-### *B. Wizard-of-Oz (WoZ)*
+<div style="text-align: center;">
+    <h3><em><strong>B. Wizard-of-Oz (WoZ)</strong></em></h3>
+</div>
 
 WoZ experiments allow HRI researchers to evaluate how humans behave when robots interact with them in a certain way and in specific environments. In this experimental design, the ``wizard" is the human operator who controls the robot from behind the scenes without the other participant(s) knowledge. With these evaluations, HRI researchers and developers can discover interaction paradigms before the underlying robotic systems are fully developed. This illusion provides valuable insights into user expectations, behaviors, and preferences in a controlled yet flexible environment. 
 
@@ -70,13 +110,17 @@ New approaches aim to overcome the constraints of WoZ experiments, such as Oz-of
 
 In both WoZ and OoW, the experimental setups face challenges in scaling their experiments and struggle to achieve complexity in modeling human-robot interactions. 
 
-### *C. VR vs. Real Environments*
+<div style="text-align: center;">
+    <h3><em><strong>C. VR vs. Real Environments</strong></em></h3>
+</div>
 
 HRI researchers have often used VR, along with other mixed-reality setups, to simulate collaborative tasks between humans and robots through immersive and interactive experiences [10]. VR setups in HRI present both the potential for enhanced interactions between humans and robots and the the technical and usability challenges [10].
 
 [6] compared human responses to drones in real and virtual environments. In this user study, [6] found that there was marginal difference between participants' stress levels, level of discomfort, and a sense of threat when interacting with the drones between real and virtual environments, supporting the VR as a tool for studying human-robot interactions. However, [6] cautions that VR may not be able to capture the complexity of real physical environments, which may impact humans' perceptions and behavior when interacting with he robot. [17] also validated the use of VR as a tool for studying human-robot interactions after comparing VR and WoZ systems for teleoperating a social robot in conversational tasks. Participants of the user study conducted by [17] found that the VR setup offered a more enjoyable and realistic interaction, whereas the traditional WoZ setup was less engaging and had issues with response timing.
 
-### *D. HRI Simulators*
+<div style="text-align: center;">
+    <h3><em><strong>D. HRI Simulators</strong></em></h3>
+</div>
 
 Gazebo [12] explored how simulators could bridge the gap between virtual testing and real-world deployment via their open-source multi-robot simulator Gazebo. Though it can produce a high-fidelity simulation of physics and interaction dynamics and increases accessibility through its open-source nature, Gazebo faces performance constraints since it is computationally intensive. Additionally, Gazebo is limited in diverse applications and complex environments, since it does not support complex dynamics.
 
@@ -86,15 +130,21 @@ Habitat v1.0 [19], v2.0 [21], v3.0 [24] investigated how simulation platforms ca
 
 iGibson 2.0 [14] investigated how to support a more diverse set of tasks that robots can learn in a simulated household environment by extending object states (e.g., temperature, wetness level, cleanliness level, and toggled and sliced states), expanding tasks beyond motion and physical contact and bridging the gap between physical simulations and logical representations. However, [14] assumes that the extended object states are uniform across all objects, which does not reflect real-world scenarios involving heterogeneous objects.
 
-### *E. Crowdsourcing HRI Experiments*
+<div style="text-align: center;">
+    <h3><em><strong>E. Crowdsourcing HRI Experiments</strong></em></h3>
+</div>
 
 There has been a growing need for outsourcing HRI experiments in recent years, particularly highlighted by the COVID-19 pandemic. Traditional methods present several limitations, such as the time-consuming process of manually generating behaviors [7], the lack of global diversity in datasets [15], and the restricted accessibility of experimental setups [11], [15]. Current crowdsourcing approaches, including via VR-based platforms and multiplayer games [11], fall short of creating realistic, complex environments that effectively simulate real-life human-robot interactions. These systems often restrict the embodiment of user avatars, limit task complexity, and require technical knowledge, reducing accessibility to these systems, thereby lowering the participant pool for HRI experiments [11], [15].
 
-### *F. Bringing it all together*
+<div style="text-align: center;">
+    <h3><em><strong>F. Bringing it all together</strong></em></h3>
+</div>
 
 Prior work has demonstrated the need for standardizing how data is collected from HRI experiments. To study diverse and realistic human-robot dynamics and behaviors, there needs to be a standardized method for creating flexible, scalable, and high-fidelity platforms. WoZ studies, crowdsourcing HRI experiments, and HRI simulators have contributed to these efforts over the years but often fall short of replicating the complexity of real-world interactions and environments. *CrowdHRI* seeks to bridge this gap by addressing the limitations of existing systems and establish a framework that is flexible, scalable, and diverse. 
 
-## III. Implementation
+<div style="text-align: center;">
+    <h2><strong>III. Implementation</strong></h2>
+</div>
 
 As shown in Fig. 1, the CrowdHRI platform integrates advanced tools, including a Firebase database, ROS 2.0, and a Unity-based application, to create an immersive, scalable environment for HRI research. The platform supports a wide range of devices, including Windows, macOS, and Linux systems, alongside Meta Quest 2 VR controllers and Xbox controllers, ensuring accessibility and flexibility for diverse experimental setups. The server is encapsulated in a Docker container, allowing seamless deployment on local machines or cloud services such as Google Cloud Platform (GCP) or Amazon Web Services (AWS).
 
@@ -110,7 +160,9 @@ Real-time interaction is facilitated through WebSockets, ensuring synchronized c
     <img src="/assets/img/crowdhri/fig1.png" width="70%">
 </div>
 
-### *A. Proof of Concept and Validation*
+<div style="text-align: center;">
+    <h3><strong><em>A. Proof of Concept and Validation</em></strong></h3>
+</div>
 
 To validate the platform, a proof-of-concept experiment was conducted using a kitchen simulation (Fig. 2). In this scenario, a WoZ operator controlled a robot via a Meta Quest 2 VR controller, performing a task that involved removing a pot lid using the robot’s first-person view (FPV). The simulator supports multiple viewpoints, including egocentric and third-person perspectives, as well as static and dynamic camera feeds. The data collected includes RGB images, depth maps, object segmentation, and semantic categorization, all synchronized with the central data server. This multi-view, multi-modal capability enables diverse task interpretation and autonomous behavior modeling. The simulation environment also records dynamic object states and interactions, providing researchers with a rich dataset for analysis. Participants can interact using various modalities, including speech, gesture, and controllers, allowing for a comprehensive exploration of HRI scenarios.
 
@@ -120,15 +172,21 @@ For latency we adopted round-trip time (RTT), mean latency, percentile latency (
     <img src="/assets/img/crowdhri/fig2.png" width="70%">
 </div>
 
-### *B. Limitations and Future Plans*
+<div style="text-align: center;">
+    <h3><strong><em>B. Limitations and Future Plans</em></strong></h3>
+</div>
 
 Our early internal usability testing and pilot studies highlighted the need for an improved graphical user interface (GUI) to facilitate experiment design for HRI researchers. While the current CSV and JSON formats are functional, they lack the flexibility required for researchers to easily make modifications \snehesh{and carry heavy payload. User defined schema with user friendly UI and better remote procedure call (RPC) protocols with more compact data representations will be helpful. Additionally, we observed lag in video and state updates based on the RT requirements} within the simulator caused by internet connection speeds. This issue revealed the importance of implementing priority-based queuing and quality-of-service (QoS) mechanisms to reduce latency. It also highlighted the need to introduce lags to simulate the realities of remote telepresence and teleportation. The current implementation is limited to computers and does not support tablets or smartphones yet. Expanding to these devices would increase the participant pool but would also introduce challenges, such as designing touch interfaces and leveraging on-device sensors like GPS and IMUs for enhanced interactions. Furthermore, pilot walkthroughs of the researchers' workflow, from recruitment to study participation, revealed gaps in the pipeline that need to be addressed, as crowdsourcing workflows for recruitment differ significantly from in-person lab HRI studies. Finally, the integration of real robots and synchronizing their states is currently absent from the design. While this feature would provide significant value, it also introduces complexities, particularly around safety, making it a longer-term goal in our roadmap.
 
-## IV. Conclusion
+<div style="text-align: center;">
+    <h2><strong>IV. Conclusion</strong></h2>
+</div>
 
 CrowdHRI has the potential to bridge significant gaps in existing HRI research platforms by offering a versatile, scalable, and immersive solution for study design and data collection. The architecture, designed to be both cost-effective and easily deployable, enables researchers to explore novel interaction paradigms across diverse scenarios. Early prototypes and pilot studies have identified opportunities for improvement in usability, latency management, and device compatibility, which will guide future development efforts. By open-sourcing the platform, we aim to foster collaboration within the HRI research community, encouraging iterative enhancements and broader adoption. This initiative will enable researchers worldwide to contribute to and benefit from a unified framework for high-fidelity, scalable HRI experimentation.
 
-## References
+<div style="text-align: center;">
+    <h2><strong>References</strong></h2>
+</div>
 
 1. "Real-time computing," Dec. 2024, page Version ID: 1263720334.
 
