@@ -12,7 +12,7 @@ related_posts: false
 
 Crowdsourcing data for Human-Robot Interaction (HRI) research remains a challenge, requiring scalable, flexible, and immersive methods to collect meaningful interaction data. This paper introduces *CrowdHRI*, a novel approach to gamify HRI data collection through a multiplayer mixed reality (MR) game. The proposed system integrates a web server and Unity-based client architecture, enabling users to schedule or join sessions dynamically. Through immersive MR, *CrowdHRI* offers realistic environments and supports customizable experimental setups, gathering high-fidelity data on human-robot interactions. The system includes automated metrics to capture interaction quality, alongside a robust data science framework for analysis. By addressing the limitations of existing platforms—such as restricted scalability and interaction fidelity *CrowdHRI* enables a wide range of experimental conditions and advances the field of HRI research.
 
-***Index Terms*—crowd sourcing, hri, vr user study, gamification**
+***Index Terms*—crowd sourcing, hri, vr, user study, gamification**
 
 ## I. Introduction
 
@@ -106,7 +106,9 @@ The current architecture comprises three role-based key components and abilities
 
 Real-time interaction is facilitated through WebSockets, ensuring synchronized communication between devices. ROS 2.0 further enhances the platform by enabling precise synchronization of robot actions with human inputs. Additionally, the web server provides a data API for advanced data processing, visualization, annotation, and analysis.
 
-<img src="/assets/img/crowdhri/fig1.png" width="70%">
+<div style="text-align: center;">
+    <img src="/assets/img/crowdhri/fig1.png" width="70%">
+</div>
 
 ### *A. Proof of Concept and Validation*
 
@@ -114,7 +116,9 @@ To validate the platform, a proof-of-concept experiment was conducted using a ki
 
 For latency we adopted round-trip time (RTT), mean latency, percentile latency (P50, P90, P95, P99), and jitter (variance.) Depending on the experiments and the specific data, there might be different types of real-time requirements hard (RT-H), firm (RT-F), and soft (RT-S) \cite{brandt_dynamic_2003, noauthor_real-time_2024}. We defined RT-H mean latency as under 8ms (SD 2ms, max 10ms), RT-F under 20ms (SD 10ms, max 30ms), and RT-S under 70ms (SD 30ms, max 100ms.) For our pilot, we used RT-F for video and simulation, RT-H for controls, RT-S for instructions, and async best effort for recording data with timestamps. The setup is considered valid if they meet the RT requirements. To ensure data are synchronized, we use geo-location metadata and NTP-sync which helps synchronize audio, video, and other sensor data. Speech and gestures are extracted from the audio and video data.
 
-![fig2](/assets/img/crowdhri/fig2.png)
+<div style="text-align: center;">
+    <img src="/assets/img/crowdhri/fig2.png" width="70%">
+</div>
 
 ### *B. Limitations and Future Plans*
 
