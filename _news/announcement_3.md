@@ -21,7 +21,8 @@ related_posts: false
 </div>
 
 <div style="flex: 1;">
-    <p style="margin: 3px 0;"><strong><sup>1</sup>Snehesh Shrestha</strong></p>
+    <p style="margin: 3px 0;"><strong><sup>1</sup><a href="https://www.snehesh.com/" 
+    target="_blank" rel="noopener noreferrer">Snehesh Shrestha</a></strong></p>
     <p style="margin: 3px 0;">University of Maryland</p>
     <p style="margin: 3px 0;">College Park, Maryland, USA</p>
     <p style="margin: 3px 0;">snehesh@umd.edu</p>
