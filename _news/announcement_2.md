@@ -161,14 +161,6 @@ For subjective performance, we ask: how will end-user developers’ perceptions 
 We might assess which particular representation users strongly preferred when specifying tasks for the robot in the *both* scenario. We will measure how users perceive the robot’s intelligence before and after having them specify tasks for the robot in terms of goals, actions, or both. We will also compare the robot’s task performance (*i.e.,* its ability to successfully complete the task) that results from the user-specified tasks between each condition.
 
 <div style="text-align: center;">
-    <h4 id="user interface"><strong>User Interface</strong></h4>
-</div>
-
-The criteria we are considering to use to measure the effectiveness and tradeoffs between using goals and actions for end-user programming will include both objective robot performance and subjective robot perceptions. For robot performance, we ask, how will the robot’s ability to achieve its task objectives be affected by whether end-user developers specify tasks in terms of goals, actions, or both? Objective measures may include task performance, namely reliability and efficiency in completing task objectives, and time it takes for end-users to specify a program for a given scenario. For subjective performance, we ask, how will end-user developers’ perceptions of the robot be affected by whether they specify tasks with goals, actions, or both? We aim to assess users’ subjective perceptions both before and after observing the robot executing the task as specified by the end-user. Examples of subjective measures that we wish to include are trust, expectations, perceived reliability, objective reliability, usability, cognitive load, and perceived agency.
-
-We might assess which particular representation users strongly preferred when specifying tasks to the robot in the both scenario. We will measure how users perceive the robot’s intelligence before and after having them specify tasks for the robot in terms of goals, actions, or both. We will also compare the robot’s task performance (i.e., its ability to successfully complete the task) that results from the user-specified tasks between each condition.
-
-<div style="text-align: center;">
     <h2 id="conclusion"><strong>Conclusion</strong></h2>
 </div>
 
