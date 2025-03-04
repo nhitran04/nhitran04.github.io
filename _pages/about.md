@@ -1,7 +1,4 @@
 ---
-
-
-
 layout: about
 title: about
 permalink: /
@@ -28,7 +25,6 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-
 ---
 
 My name is Nhi Tran. I am an incoming Ph.D. Computer Science student starting this fall at [to be announced 😆] and a Research Intern at the [Navy Center for Applied Research in Artificial Intelligence (NCARAI)](https://www.nrl.navy.mil/itd/aic/content/about-ncarai/) at the [U.S. Naval Research Laboratory](https://www.nrl.navy.mil/), where I am being advised by [Dr. David Porfirio](https://dporfirio.github.io/). In my free time, I collaborate with [Dr. Snehesh Shrestha](https://www.snehesh.com/) from the [University of Maryland](https://umd.edu/) (UMD) and the [National Institute of Standards and Technology](https://www.nist.gov/) (NIST) on human-robot interaction research.
