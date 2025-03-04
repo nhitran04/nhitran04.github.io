@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: Email: <a href="mailto:nhitran@umd.edu">nhitran@umd.edu</a> | <a href="https://www.linkedin.com/in/nhitran04/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=mu-UcYoAAAAJ&hl=en">Google Scholar</a>
 
 profile:
   align: right
