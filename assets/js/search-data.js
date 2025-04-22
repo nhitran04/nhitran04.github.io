@@ -432,6 +432,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "news-i-accepted-my-phd-offer-at-arizona-state-university",
+          title: 'I accepted my PhD offer at Arizona State University!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
