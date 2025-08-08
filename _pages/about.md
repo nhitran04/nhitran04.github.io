@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: <a href="mailto:nhitran@umd.edu">nhitran@umd.edu</a></p>
-    <p><a href="https://www.linkedin.com/in/nhitran04/">LinkedIn</a></p>
-    <p><a href="https://scholar.google.com/citations?user=mu-UcYoAAAAJ&hl=en">Google Scholar</a></p>
+    <p>Email: <a href="mailto:nytran1@asu.edu">nytran1@asu.edu</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
