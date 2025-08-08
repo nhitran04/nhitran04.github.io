@@ -26,6 +26,7 @@ latest_posts:
 ---
 
 I am a 1st year Ph.D. Computer Science student at [Arizona State University](https://www.asu.edu/) and am advised by [Dr. Siddharth Srivastava](http://siddharthsrivastava.net/) at the [Autonomous Agents and Intelligent Robots (AAIR) Lab](https://aair-lab.github.io/). 
-Previously, I was a Research Intern at the [Navy Center for Applied Research in Artificial Intelligence (NCARAI)](https://www.nrl.navy.mil/itd/aic/content/about-ncarai/) at the [U.S. Naval Research Laboratory](https://www.nrl.navy.mil/), where I was advised by [Dr. David Porfirio](https://dporfirio.github.io/). I received my B.S. in [Computer Science](https://www.cs.umd.edu/) and minor in [Geographic Information Science](https://geog.umd.edu/) from the University of Maryland in the Fall of 2023 (go terps! 🐢)
+Previously, I was a Research Intern at the [Navy Center for Applied Research in Artificial Intelligence (NCARAI)](https://www.nrl.navy.mil/itd/aic/content/about-ncarai/) at the [U.S. Naval Research Laboratory (NRL)](https://www.nrl.navy.mil/), where I was advised by [Dr. David Porfirio](https://dporfirio.github.io/). I was also advised by [Dr. Mark Roberts](https://makro-nrl.bitbucket.io/) at NRL during 
+the Summer of 2023. I received my B.S. in [Computer Science](https://www.cs.umd.edu/) and minor in [Geographic Information Science](https://geog.umd.edu/) from the University of Maryland in the Fall of 2023 (go terps! 🐢)
 
 Broadly, I am interested in **artificial intelligence**, **planning**, **robotics**, and **human-robot interaction** research. 
