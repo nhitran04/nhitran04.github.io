@@ -437,6 +437,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
+            },},{id: "news-i-39-ve-started-my-ph-d-at-arizona-state-university",
+          title: 'I&amp;#39;ve started my Ph.D. at Arizona State University!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
