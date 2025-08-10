@@ -1,8 +1,7 @@
 ---
 layout: post
-title: I accepted my PhD offer at Arizona State University! 
-date: 2025-04-15
+title: I've returned to NRL as a Research Intern! 
+date: 2023-11-27
 inline: false
 related_posts: false
 ---
-

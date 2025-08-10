@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 1st year Ph.D. Computer Science student at [Arizona State University](https://www.asu.edu/) and am advised by [Dr. Siddharth Srivastava](http://siddharthsrivastava.net/) at the [Autonomous Agents and Intelligent Robots (AAIR) Lab](https://aair-lab.github.io/). 
-Previously, I was a Research Intern at the [Navy Center for Applied Research in Artificial Intelligence (NCARAI)](https://www.nrl.navy.mil/itd/aic/content/about-ncarai/) at the [U.S. Naval Research Laboratory (NRL)](https://www.nrl.navy.mil/), where I was advised by [Dr. David Porfirio](https://dporfirio.github.io/). I was also advised by [Dr. Mark Roberts](https://makro-nrl.bitbucket.io/) at NRL during 
+I am a 1st year Ph.D. [Computer Science](https://scai.engineering.asu.edu/) student at [Arizona State University](https://www.asu.edu/) and am advised by [Dr. Siddharth Srivastava](http://siddharthsrivastava.net/) at the [Autonomous Agents and Intelligent Robots (AAIR) Lab](https://aair-lab.github.io/). 
+Previously, I was a Research Intern at the [Navy Center for Applied Research in Artificial Intelligence (NCARAI)](https://www.nrl.navy.mil/itd/aic/content/about-ncarai/) at the [U.S. Naval Research Laboratory (NRL)](https://www.nrl.navy.mil/), where I was advised by [Dr. David Porfirio](https://dporfirio.github.io/). I was also advised by [Dr. Mark Roberts](https://makro-nrl.bitbucket.io/) at NRL during the [Naval Research Enterprise Internship (NREIP)](https://www.navalsteminterns.us/nreip/) in
 the Summer of 2023. I received my B.S. in [Computer Science](https://www.cs.umd.edu/) and minor in [Geographic Information Science](https://geog.umd.edu/) from the [University of Maryland](https://www.umd.edu) in the Fall of 2023.
 
 Broadly, I am interested in **artificial intelligence**, **planning**, **robotics**, and **human-robot interaction** research. 
