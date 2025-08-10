@@ -432,8 +432,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-i-graduated-from-the-university-of-maryland",
-          title: 'I graduated from the University of Maryland!',
+            },},{id: "news-i-39-ve-graduated-from-the-university-of-maryland",
+          title: 'I&amp;#39;ve graduated from the University of Maryland!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
@@ -442,8 +442,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "news-my-late-breaking-report-was-accepted-at-hri-2025",
-          title: 'My Late-Breaking Report was accepted at HRI 2025!',
+            },},{id: "news-our-late-breaking-report-was-accepted-at-hri-2025",
+          title: 'Our Late-Breaking Report was accepted at HRI 2025!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
