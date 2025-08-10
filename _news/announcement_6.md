@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Late-Breaking Report was accepted at HRI 2025!
+title: Our Late-Breaking Report was accepted at HRI 2025!
 date: 2025-01-06
 inline: false
 related_posts: false
