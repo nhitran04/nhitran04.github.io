@@ -431,12 +431,12 @@ ninja.data = [{
           title: 'I&amp;#39;ve returned to NRL as a Research Intern!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
+              window.location.href = "/news/announcement_3/";
             },},{id: "news-i-graduated-from-the-university-of-maryland",
           title: 'I graduated from the University of Maryland!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
+              window.location.href = "/news/announcement_4/";
             },},{id: "news-i-presented-at-the-2024-aaai-fall-symposium",
           title: 'I presented at the 2024 AAAI Fall Symposium!',
           description: "",
