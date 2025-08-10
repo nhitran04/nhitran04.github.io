@@ -417,31 +417,46 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-graduated-from-the-university-of-maryland",
-          title: 'I graduated from the University of Maryland!',
+    },{id: "news-i-39-ve-started-my-internship-at-nrl",
+          title: 'I&amp;#39;ve started my internship at NRL!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-i-39-ve-completed-my-first-internship-at-the-nreip-program",
+          title: 'I&amp;#39;ve completed my first internship at the NREIP program!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-i-39-ve-returned-to-nrl-as-a-research-intern",
+          title: 'I&amp;#39;ve returned to NRL as a Research Intern!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-i-graduated-from-the-university-of-maryland",
+          title: 'I graduated from the University of Maryland!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
             },},{id: "news-i-presented-at-the-2024-aaai-fall-symposium",
           title: 'I presented at the 2024 AAAI Fall Symposium!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_5/";
             },},{id: "news-my-late-breaking-report-was-accepted-at-hri-2025",
           title: 'My Late-Breaking Report was accepted at HRI 2025!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "news-i-accepted-my-phd-offer-at-arizona-state-university",
-          title: 'I accepted my PhD offer at Arizona State University!',
+              window.location.href = "/news/announcement_6/";
+            },},{id: "news-i-39-ve-accepted-my-ph-d-offer-at-arizona-state-university",
+          title: 'I&amp;#39;ve accepted my Ph.D. offer at Arizona State University!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
+              window.location.href = "/news/announcement_7/";
             },},{id: "news-i-39-ve-started-my-ph-d-at-arizona-state-university",
           title: 'I&amp;#39;ve started my Ph.D. at Arizona State University!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_5/";
+              window.location.href = "/news/announcement_8/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
