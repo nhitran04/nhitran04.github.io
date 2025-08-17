@@ -432,8 +432,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-i-39-ve-graduated-from-the-university-of-maryland",
-          title: 'I&amp;#39;ve graduated from the University of Maryland!',
+            },},{id: "news-i-graduated-from-the-university-of-maryland",
+          title: 'I graduated from the University of Maryland!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
@@ -447,16 +447,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
-            },},{id: "news-i-39-ve-accepted-my-ph-d-offer-at-arizona-state-university",
-          title: 'I&amp;#39;ve accepted my Ph.D. offer at Arizona State University!',
+            },},{id: "news-i-accepted-my-ph-d-offer-at-arizona-state-university",
+          title: 'I accepted my Ph.D. offer at Arizona State University!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
-            },},{id: "news-i-39-ve-started-my-ph-d-at-arizona-state-university",
-          title: 'I&amp;#39;ve started my Ph.D. at Arizona State University!',
+            },},{id: "news-last-day-of-my-internship-at-nrl",
+          title: 'Last day of my internship at NRL!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_8/";
+            },},{id: "news-i-started-my-ph-d-at-arizona-state-university",
+          title: 'I started my Ph.D. at Arizona State University!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_9/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
