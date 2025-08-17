@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I've graduated from the University of Maryland! 
+title: I graduated from the University of Maryland! 
 date: 2023-12-19
 inline: false
 related_posts: false
